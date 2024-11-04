@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DZcatalUser</string>
+    <string name="infoStr">Информация о приложении</string>
+    <string name="exit">Выход из приложения</string>
+    <string name="edit_text_name">Введите имя пользователя</string>
+    <string name="edit_text_age">Введите возраст пользователя</string>
+    <string name="button_save">Сохранить</string>
+</resources>
